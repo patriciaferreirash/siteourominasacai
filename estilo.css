@@ -1,0 +1,25 @@
+p {
+	color: #7A0143;
+	font-size: 120%;
+}
+
+h1 {
+	color: #F2D924;
+}
+
+h2 {
+	color: #57353C;
+}
+
+table {
+	color:darkgreen;
+	
+}
+
+tr, td {
+	padding: 10px;
+	border: 1px solid;
+	border-collapse: collapse;
+	border-radius: 20px;
+	
+}
